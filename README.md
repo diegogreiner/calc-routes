@@ -1,3 +1,17 @@
+## Descrição do projeto
+
+O projeto "Calculador de Rotas" é uma aplicação web que utiliza a poderosa Google API para fornecer informações precisas sobre rotas de viagem. Com essa aplicação, os usuários podem inserir o local de origem e destino desejados, escolher o modo de viagem e obter dados como distância, tempo estimado e até mesmo o total gasto em combustível, caso a opção seja viajar de carro.
+
+### Tecnologias Utilizadas:
+- APIs: Maps JavaScript API, Places API, Directions API da Google.
+- Framework: Next.js, que permite a criação de aplicações web rápidas e escaláveis.
+- Bibliotecas: React Hooks e Context API, que facilitam o desenvolvimento de componentes reutilizáveis e o gerenciamento de estado.
+- Estilização: Utilizamos o Tailwind CSS, uma biblioteca de utilitários CSS que agiliza o processo de estilização e oferece uma ampla gama de estilos pré-definidos.
+
+Com essa combinação de tecnologias, o projeto "Calculador de Rotas" oferece uma experiência de usuário intuitiva e eficiente, fornecendo informações valiosas para planejar viagens de forma inteligente e econômica.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
